@@ -1,0 +1,8 @@
+﻿  pcrecpp_unittest.cc
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcrecpp.h(701,25): warning C4251: 'pcrecpp::RE::pattern_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'에서는 class 'pcrecpp::RE'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  pcrecpp_unittest.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Release\pcrecpp_unittest.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98e90475-015e-4d21-ba6d-740ecfe28d54": {
+      "ProjectGuid": "98e90475-015e-4d21-ba6d-740ecfe28d54",
+      "DisplayName": "pcregrep-static",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

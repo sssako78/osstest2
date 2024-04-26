@@ -1,0 +1,2 @@
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\Debug\libpcreposix-static.pdb
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\libpcreposix-static\Debug\libpcreposix-static.pdb

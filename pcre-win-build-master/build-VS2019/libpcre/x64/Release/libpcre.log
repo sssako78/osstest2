@@ -1,0 +1,47 @@
+﻿  pcre_byte_order.c
+  pcre_compile.c
+  pcre_config.c
+  pcre_dfa_exec.c
+  pcre_exec.c
+  pcre_fullinfo.c
+  pcre_get.c
+  pcre_globals.c
+  pcre_jit_compile.c
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_common.c(439,1): warning C4244: '초기화 중': 'sljit_uw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(44,1): warning C4244: '초기화 중': 'sljit_uw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(386,37): warning C4244: '함수': 'sljit_sw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(568,23): warning C4244: '=': 'sljit_sw'에서 'sljit_u8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(570,45): warning C4244: '함수': 'sljit_sw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(579,84): warning C4244: '=': 'sljit_sw'에서 'sljit_u8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(587,42): warning C4244: '함수': 'sljit_sw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(593,19): warning C4244: '=': 'sljit_sw'에서 'sljit_u8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(595,43): warning C4244: '함수': 'sljit_sw'에서 'sljit_s16'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\sljit\sljitNativeX86_64.c(597,43): warning C4244: '함수': 'sljit_sw'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(1204,92): warning C4244: '=': '__int64'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(1219,77): warning C4244: '=': '__int64'에서 'sljit_s32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(5749,28): warning C4244: '함수': 'sljit_uw'에서 'sljit_u32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(5749,33): warning C4244: '함수': 'sljit_uw'에서 'sljit_u32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(7310,66): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(7311,84): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(7312,95): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(7326,44): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_compile.c(7327,52): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pcre_maketables.c
+  pcre_newline.c
+  pcre_ord2utf8.c
+  pcre_refcount.c
+  pcre_string_utils.c
+  pcre_study.c
+  pcre_tables.c
+  pcre_ucd.c
+  pcre_valid_utf8.c
+  pcre_version.c
+  pcre_xclass.c
+  컴파일하고 있습니다...
+  pcre_chartables.c
+     D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Release\libpcre.lib 라이브러리 및 D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Release\libpcre.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  libpcre.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Release\libpcre.dll

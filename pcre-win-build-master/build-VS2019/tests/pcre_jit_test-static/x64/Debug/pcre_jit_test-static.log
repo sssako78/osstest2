@@ -1,0 +1,5 @@
+﻿  pcre_jit_test.c
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_test.c(1365,85): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_test.c(1368,89): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcre_jit_test.c(1377,91): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pcre_jit_test-static.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Debug\pcre_jit_test-static.exe

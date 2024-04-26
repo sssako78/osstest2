@@ -1,0 +1,5 @@
+﻿  pcregrep.c
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcregrep.c(958,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcregrep.c(2256,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\pcregrep.c(2516,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pcregrep-static.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Debug\pcregrep-static.exe

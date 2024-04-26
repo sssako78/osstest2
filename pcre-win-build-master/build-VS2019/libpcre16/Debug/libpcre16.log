@@ -1,0 +1,27 @@
+﻿  pcre16_byte_order.c
+  pcre16_chartables.c
+  pcre16_compile.c
+  pcre16_config.c
+  pcre16_dfa_exec.c
+  pcre16_exec.c
+  pcre16_fullinfo.c
+  pcre16_get.c
+  pcre16_globals.c
+  pcre16_jit_compile.c
+  pcre16_maketables.c
+  pcre16_newline.c
+  pcre16_ord2utf16.c
+  pcre16_refcount.c
+  pcre16_string_utils.c
+  pcre16_study.c
+  pcre16_tables.c
+  pcre16_ucd.c
+  pcre16_utf16_utils.c
+  pcre16_valid_utf16.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  pcre16_version.c
+  pcre16_xclass.c
+  코드를 생성하고 있습니다...
+     D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\Debug\libpcre16.lib 라이브러리 및 D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\Debug\libpcre16.exp 개체를 생성하고 있습니다.
+  libpcre16.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\Debug\libpcre16.dll

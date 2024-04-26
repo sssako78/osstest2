@@ -1,0 +1,6 @@
+﻿  pcre16_printint.c
+  pcre32_printint.c
+  pcretest.c
+  pcre_printint.c
+  코드를 생성하고 있습니다...
+  pcretest-static.vcxproj -> D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\Debug\pcretest-static.exe

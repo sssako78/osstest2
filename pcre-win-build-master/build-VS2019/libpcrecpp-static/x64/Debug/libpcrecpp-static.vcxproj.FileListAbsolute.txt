@@ -1,0 +1,2 @@
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\x64\Debug\libpcrecpp-static.pdb
+D:\TTS\source\reference\PCRE\pcre-win-build-master\pcre-win-build-master\build-VS2019\libpcrecpp-static\x64\Debug\libpcrecpp-static.pdb
